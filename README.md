@@ -3,7 +3,7 @@
 A Data Analyst 📊📈
 
 - 🔭 I’m currently working on learning new skills & refining the old ones.
-- 💬 Ask me about **Excel, Power BI, SQL, Python**
+- 💬 Ask me about **Excel, Power BI, Tableau SQL, Python**
 - 📫 How to reach me: aniketchaware184@gmail.com
 
 <!--
